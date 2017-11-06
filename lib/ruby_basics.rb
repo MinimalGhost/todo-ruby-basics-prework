@@ -24,6 +24,6 @@ def last_evaluated_value
 end
 
 def pizza_party(arg)
-  "cheese"
-  return arg
+  return "cheese"
+  arg
 end
