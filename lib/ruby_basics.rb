@@ -25,5 +25,5 @@ end
 
 def pizza_party(arg)
   "cheese"
-  return
+  return arg
 end
